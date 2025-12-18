@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.e8cd4375.js",
-    "index.html": "/index.html",
-    "main.e8cd4375.js.map": "/static/js/main.e8cd4375.js.map"
+    "main.js": "/anime-streaming-reactjs-Api-/static/js/main.cf3c251f.js",
+    "index.html": "/anime-streaming-reactjs-Api-/index.html",
+    "main.cf3c251f.js.map": "/anime-streaming-reactjs-Api-/static/js/main.cf3c251f.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8cd4375.js"
+    "static/js/main.cf3c251f.js"
   ]
 }
